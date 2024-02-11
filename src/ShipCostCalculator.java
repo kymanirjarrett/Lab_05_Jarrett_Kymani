@@ -7,6 +7,7 @@ public class ShipCostCalculator
         Scanner in = new Scanner(System.in);
         String trash;
 
+
         double itemPrice;
         double shippingCost = 0;
         double totalPrice = 0;

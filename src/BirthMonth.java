@@ -7,6 +7,7 @@ public class BirthMonth
         Scanner in = new Scanner(System.in);
         String trash;
 
+
         int birthMonth;
 
         System.out.print("Enter the month you were born in: [1 2 3 4 5 6 7 8 9 10 11 12]: ");
